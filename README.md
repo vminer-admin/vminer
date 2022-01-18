@@ -12,7 +12,6 @@
 * :gear: 内置中转：支持多个主流矿池的中转，用户操作简单
 * :eye_speech_bubble: 完善社区支持：Telegram 群组内可帮助处理解决遇到的各类问题，欢迎提出反馈建议
 * :rocket: 开箱即用：一键运行，一键配置
-* :family_woman_girl_boy: 多系统支持：Windows Linux MacOS均可支持使用，无需额外环境等
 * 🌈 ... ...
 
 
