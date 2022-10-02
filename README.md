@@ -1,7 +1,9 @@
 <h1 align="center">HI~这里是Vminer</h1>
 <h1 align="center">多算法、多币种、加密挖矿，支持3挖，支持网吧后台模式</h1>
 <h1 align="center"> <a href="https://t.me/+PbVpnzBwwpkzNjY1">点我加入Telegram群</a></h1>
-
+<p align="center">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/SJVHMQM/7-EEAWRCQ-S-P9-VCT5-Z-D.png" alt="Vminer" border="0"></a>
+</p>
 ## :sparkles: 特性
 
 * :cloud:加密数据，密码验证，原创算法，群控端与服务端之间数据加密。（目前运行商会驱动内核连接中转服务器，发现后屏蔽）
