@@ -24,8 +24,8 @@
 
 
 <h1 align="center">免责声明</h1>
-<h1 align="center">本软件仅供内部技术交流使用，目的是熟悉编程语言，了解网络架构，切勿进行挖矿活动，产生的一切后果，使用者自行承担</h1>
+<h1 align="center">本软件仅供内部技术交流使用，目的是熟悉编程语言，了解网络架构，产生的一切后果，使用者自行承担</h1>
 
 <p align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/Fhb5JDP/Vminer.png" alt="Vminer" border="0"></a>
+  <a href="https://imgbb.com/"><img src="图片地址" alt="Vminer" border="0"></a>
 </p>
