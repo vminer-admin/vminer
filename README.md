@@ -1,6 +1,6 @@
 <h1 align="center">HI~这里是Vminer</h1>
 <h1 align="center">33333333333333</h1>
-<h1 align="center"> <a href="https://t.me/+PbVpnzBwwpkzNjY1">点我加入飞机群</a></h1>
+<h1 align="center"> <a href="https://t.me/+PbVpnzBwwpkzNjY1">点我加入Telegram群</a></h1>
 
 ## :sparkles: 特性
 
