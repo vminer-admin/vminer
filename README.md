@@ -27,5 +27,5 @@
 <h1 align="center">本软件仅供内部技术交流使用，目的是熟悉编程语言，了解网络架构，产生的一切后果，使用者自行承担</h1>
 
 <p align="center">
-  <a href="https://imgbb.com/"><img src="https://ibb.co/4R1Cn0G" alt="Vminer" border="0"></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/d4mXwHq/XJP-5-UP2-HC-2-N9-KJ7-F.png" alt="Vminer" border="0"></a>
 </p>
